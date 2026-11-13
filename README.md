@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vishnupriya-das/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vishnupriya-das/myleetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vishnupriya-das/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vishnupriya-das/myleetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vishnupriya-das/myleetcode/tree/master/0088-merge-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vishnupriya-das/myleetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
