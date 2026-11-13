@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/vishnupriya-das/myleetcode/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/vishnupriya-das/myleetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
