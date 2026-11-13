@@ -18,15 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vishnupriya-das/myleetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vishnupriya-das/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishnupriya-das/myleetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vishnupriya-das/myleetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vishnupriya-das/myleetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vishnupriya-das/myleetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vishnupriya-das/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishnupriya-das/myleetcode/tree/master/0217-contains-duplicate) |
 ## Number Theory
