@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vishnupriya-das/myleetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/vishnupriya-das/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vishnupriya-das/myleetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/vishnupriya-das/myleetcode/tree/master/1603-design-parking-system) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnupriya-das/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/vishnupriya-das/myleetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/vishnupriya-das/myleetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/vishnupriya-das/myleetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/vishnupriya-das/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupriya-das/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupriya-das/myleetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vishnupriya-das/myleetcode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vishnupriya-das/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
 |  |
