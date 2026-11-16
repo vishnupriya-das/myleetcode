@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vishnupriya-das/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vishnupriya-das/myleetcode/tree/master/0412-fizz-buzz) |
+| [1486-xor-operation-in-an-array](https://github.com/vishnupriya-das/myleetcode/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnupriya-das/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/vishnupriya-das/myleetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
