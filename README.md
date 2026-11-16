@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vishnupriya-das/myleetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/vishnupriya-das/myleetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/vishnupriya-das/myleetcode/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/vishnupriya-das/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vishnupriya-das/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupriya-das/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupriya-das/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vishnupriya-das/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupriya-das/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupriya-das/myleetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Linked List
@@ -98,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vishnupriya-das/myleetcode/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/vishnupriya-das/myleetcode/tree/master/0085-maximal-rectangle) |
 | [1572-matrix-diagonal-sum](https://github.com/vishnupriya-das/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vishnupriya-das/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupriya-das/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/vishnupriya-das/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishnupriya-das/myleetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -119,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vishnupriya-das/myleetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/vishnupriya-das/myleetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
