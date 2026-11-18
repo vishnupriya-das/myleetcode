@@ -1,30 +1,42 @@
-
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        vector<ListNode*> v;
+        if (!head || !head->next) return;
 
-        ListNode* temp = head;
+        // Find middle
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while (temp != NULL) {
-            v.push_back(temp);
-            temp = temp->next;
+        while (fast->next && fast->next->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        int i = 0;
-        int j = v.size() - 1;
+        // Reverse second half
+        ListNode* prev = NULL;
+        ListNode* curr = slow->next;
+        slow->next = NULL;
 
-        while (i < j) {
-            v[i]->next = v[j];
-            i++;
-
-            if (i == j)
-                break;
-
-            v[j]->next = v[i];
-            j--;
+        while (curr) {
+            ListNode* nextNode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextNode;
         }
 
-        v[i]->next = NULL;
+        // Merge two halves
+        ListNode* first = head;
+        ListNode* second = prev;
+
+        while (second) {
+            ListNode* temp1 = first->next;
+            ListNode* temp2 = second->next;
+
+            first->next = second;
+            second->next = temp1;
+
+            first = temp1;
+            second = temp2;
+        }
     }
 };
