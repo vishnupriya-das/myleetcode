@@ -3,12 +3,12 @@ public:
     string removeDuplicates(string s) {
         string ans = "";
 
-        for (int i = 0; i < s.length(); i++) {
-            if (ans.length() > 0 && ans.back() == s[i]) {
+        for(char c : s) {
+            if(!ans.empty() && ans.back() == c) {
                 ans.pop_back();
             }
             else {
-                ans.push_back(s[i]);
+                ans.push_back(c);
             }
         }
 
