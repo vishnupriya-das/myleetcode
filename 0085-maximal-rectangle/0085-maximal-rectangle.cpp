@@ -1,29 +1,37 @@
-
 class Solution {
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
-        int ans = 0;
+        if (matrix.empty()) return 0;
+
         int m = matrix.size();
         int n = matrix[0].size();
 
+        vector<int> height(n, 0);
+        int ans = 0;
+
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                int width = n;
+                if (matrix[i][j] == '1')
+                    height[j]++;
+                else
+                    height[j] = 0;
+            }
 
-                for (int k = i; k < m; k++) {
-                    int count = 0;
+            stack<int> st;
 
-                    for (int l = j; l < n; l++) {
-                        if (matrix[k][l] == '1')
-                            count++;
-                        else
-                            break;
-                    }
+            for (int j = 0; j <= n; j++) {
+                int curr = (j == n) ? 0 : height[j];
 
-                    width = min(width, count);
+                while (!st.empty() && height[st.top()] > curr) {
+                    int h = height[st.top()];
+                    st.pop();
 
-                    ans = max(ans, width * (k - i + 1));
+                    int width = st.empty() ? j : j - st.top() - 1;
+
+                    ans = max(ans, h * width);
                 }
+
+                st.push(j);
             }
         }
 
