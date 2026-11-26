@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishnupriya-das/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/vishnupriya-das/myleetcode/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/vishnupriya-das/myleetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/vishnupriya-das/myleetcode/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishnupriya-das/myleetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vishnupriya-das/myleetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vishnupriya-das/myleetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/vishnupriya-das/myleetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vishnupriya-das/myleetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/vishnupriya-das/myleetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishnupriya-das/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
