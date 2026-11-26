@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vishnupriya-das/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vishnupriya-das/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupriya-das/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/vishnupriya-das/myleetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupriya-das/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupriya-das/myleetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/vishnupriya-das/myleetcode/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vishnupriya-das/myleetcode/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/vishnupriya-das/myleetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
